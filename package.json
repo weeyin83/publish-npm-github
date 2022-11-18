@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/weeyin83/exercise-publish-package/issues"
   },
-  "homepage": "https://github.com/weeyin83/exercise-publish-package#readme"
+  "homepage": "https://github.com/weeyin83/exercise-publish-package#readme",
+  "publishConfig": {
+    "@weeyin83:registry": "https://npm.pkg.github.com"
+  }
 }
