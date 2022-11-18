@@ -1,3 +1,5 @@
-"publishConfig": {
-  "@WEEYIN83:registry": "https://npm.pkg.github.com"
+{
+  "publishConfig": {
+    "@WEEYIN83:registry": "https://npm.pkg.github.com"
+  }
 }
