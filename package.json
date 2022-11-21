@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weeyin83/publish-npm.git"
+    "url": "git+https://github.com/weeyin83/publish-npm-github.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/weeyin83/publish-npm/issues"
+    "url": "https://github.com/weeyin83/publish-npm-github/issues"
   },
-  "homepage": "https://github.com/weeyin83/publish-npm#readme",
+  "homepage": "https://github.com/weeyin83/publish-npm-github#readme",
   "publishConfig": {
-    "@weeyin83:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
