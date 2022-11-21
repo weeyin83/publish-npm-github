@@ -1,6 +1,6 @@
 {
   "name": "@weeyin83/publish-npm-github",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Sarah learning",
   "main": "index.js",
   "repository": {
