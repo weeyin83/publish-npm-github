@@ -1,22 +1,20 @@
 {
-  "name": "publish-npm-github",
+  "name": "@weeyin83/publish-npm-github",
   "version": "1.0.0",
-  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "description": "Sarah learning",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/weeyin83/publish-npm-github.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/weeyin83/publish-npm-github/issues"
-  },
-  "homepage": "https://github.com/weeyin83/publish-npm-github#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "keywords": [
+    "weeyin83",
+    "publish-npm-github"
+  ],
+  "author": "weeyin83",
+  "homepage": "https://www.techielass.com",
+  "license": "ISC"
 }
