@@ -31,5 +31,4 @@ jobs:
           node-version: 16
           registry-url: https://npm.pkg.github.com
       - run: npm ci
-      - run: npm login --scope=@OWNER --registry=https://npm.pkg.github.com
       - run: npm publish
