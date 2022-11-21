@@ -1,5 +1,5 @@
 {
-  "name": "exercise-publish-package",
+  "name": "sarah-npm-test",
   "version": "1.0.0",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weeyin83/exercise-publish-package.git"
+    "url": "git+https://github.com/weeyin83/publish-npm.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/weeyin83/exercise-publish-package/issues"
+    "url": "https://github.com/weeyin83/publish-npm/issues"
   },
-  "homepage": "https://github.com/weeyin83/exercise-publish-package#readme",
+  "homepage": "https://github.com/weeyin83/publish-npm#readme",
   "publishConfig": {
     "@weeyin83:registry": "https://npm.pkg.github.com"
   }
